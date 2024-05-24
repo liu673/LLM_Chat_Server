@@ -72,3 +72,6 @@ curl -X POST \
 ## 💬 联系方式
 对于任何疑问、建议或合作意向，欢迎通过 [GitHub Issues](https://github.com/liu673/LLM_Chat_Server/issues) 或电子邮件与我们取得联系。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=liu673/LLM_Chat_Server&type=Date)](https://star-history.com/#liu673/LLM_Chat_Server&Date)
