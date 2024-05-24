@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# LLM_Chat_Server
-A lightweight Flask-based chat server integrating pre-trained LLMs for intelligent responses via RESTful API
-=======
+
 # LLM Chat Server Project
 
 ## 📖 项目简介
@@ -74,4 +71,4 @@ curl -X POST \
 
 ## 💬 联系方式
 对于任何疑问、建议或合作意向，欢迎通过 [GitHub Issues](https://github.com/liu673/LLM_Chat_Server/issues) 或电子邮件与我们取得联系。
->>>>>>> a77d89a (更新代码)
+
