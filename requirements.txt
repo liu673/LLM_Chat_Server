@@ -1,0 +1,10 @@
+torch==2.2.0+cu118
+torchaudio==2.2.0
+torchvision==0.17.0
+xformers==0.0.24+cu118
+Flask==3.0.3
+httpx==0.27.0
+modelscope==1.11.0
+python-dotenv==1.0.1
+retrying==1.3.4
+transformers==4.39.3
